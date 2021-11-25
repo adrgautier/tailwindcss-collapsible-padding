@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should generate proper collapsible padding styles 1`] = `
+".p-4 {
+  padding: 1rem;
+}
+
+.p-px {
+  padding: 1px;
+}
+
+.collapsible\\\\:p-4::before {
+  content: \\"\\";
+  display: table;
+  margin-bottom: 1rem;
+}
+
+.collapsible\\\\:p-4::after {
+  content: \\"\\";
+  display: table;
+  margin-top: 1rem;
+}
+
+.collapsible\\\\:p-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.px-px {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.py-px {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.collapsible\\\\:py-4::before {
+  content: \\"\\";
+  display: table;
+  margin-bottom: 1rem;
+}
+
+.collapsible\\\\:py-4::after {
+  content: \\"\\";
+  display: table;
+  margin-top: 1rem;
+}
+
+.collapsible\\\\:pt-8::before {
+  content: \\"\\";
+  display: table;
+  margin-bottom: 2rem;
+}
+
+*, ::before, ::after {
+}
+
+*, ::before, ::after {
+}
+
+@media (min-width: 640px) {
+  .sm\\\\:p-4 {
+    padding: 1rem;
+  }
+
+  .sm\\\\:p-px {
+    padding: 1px;
+  }
+
+  .sm\\\\:collapsible\\\\:p-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .sm\\\\:collapsible\\\\:p-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+
+  .sm\\\\:collapsible\\\\:p-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .sm\\\\:px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .sm\\\\:px-px {
+    padding-left: 1px;
+    padding-right: 1px;
+  }
+
+  .sm\\\\:py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .sm\\\\:py-px {
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+
+  .sm\\\\:collapsible\\\\:py-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .sm\\\\:collapsible\\\\:py-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+
+  .sm\\\\:collapsible\\\\:pb-16::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 4rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\\\\:collapsible\\\\:py-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .md\\\\:collapsible\\\\:py-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+
+  .md\\\\:collapsible\\\\:pt-32::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 8rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\\\\:collapsible\\\\:py-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .lg\\\\:collapsible\\\\:py-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+
+  .lg\\\\:collapsible\\\\:pb-64::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 16rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\\\\:collapsible\\\\:py-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .xl\\\\:collapsible\\\\:py-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+}
+
+@media (min-width: 1536px) {
+  .\\\\32xl\\\\:p-4 {
+    padding: 1rem;
+  }
+
+  .\\\\32xl\\\\:collapsible\\\\:py-4::before {
+    content: \\"\\";
+    display: table;
+    margin-bottom: 1rem;
+  }
+
+  .\\\\32xl\\\\:collapsible\\\\:py-4::after {
+    content: \\"\\";
+    display: table;
+    margin-top: 1rem;
+  }
+}"
+`;
