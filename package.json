@@ -1,5 +1,10 @@
 {
   "name": "tailwindcss-collapsible-padding",
+  "description": "A tailwindcss plugin that makes paddings collapsible with the descendant elements.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrgautier/tailwindcss-collapsible-padding.git"
+  },
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",

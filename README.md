@@ -1,6 +1,6 @@
 # tailwindcss-collapsible-padding
 
-A plugin that make paddings collapsible with the inner content.
+A tailwindcss plugin that makes paddings collapsible with the descendant elements.
 
 ## Why ?
 
@@ -36,7 +36,7 @@ module.exports = {
     // ...
   },
   plugins: [
-    require('tailwindcss-aspect-ratio'),
+    require('tailwindcss-collapsible-padding'),
     // ...
   ],
   variants: {
